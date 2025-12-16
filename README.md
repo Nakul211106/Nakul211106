@@ -1,7 +1,7 @@
 # Hi, I'm Prahlad 👋
 
 🎓 Maths And Computing Student  
-💻 Upcomming MERN Stack Developer  
+💻 Upcoming MERN Stack Developer  
 ☁️ Learning AWS  
 
 ## Skills
