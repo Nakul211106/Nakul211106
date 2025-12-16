@@ -1,23 +1,25 @@
 # Hi, I'm Nakul 👋
 
 🎓 Maths And Computing Student  
-💻 Upcoming MERN Stack Developer  
-☁️ Learning AWS  
+💻 Beginner MERN Stack Learner  
 
-## Skills
-- python
-- C
-- JavaScript
+## Currently Learning
+- JavaScript (Basics)
 - React.js
-- Node.js
-- Express.js
+- Node.js & Express
 - MongoDB
+
+## Goals
+- Build strong JavaScript fundamentals
+- Create small MERN projects
+- Learn how to deploy apps on AWS
+
+## Skills (Beginner Level)
+- C / Python / Java (if applicable)
+- JavaScript (Beginner)
 - Git & GitHub
 
-## What I'm working on
-- MERN projects
-- Backend APIs
-- AWS deployment
+## GitHub Journey
+I am learning step by step and uploading my progress through small projects and practice code.
 
-## Contact
-- GitHub: https://github.com/Nakul211106
+📌 Growth > Perfection
