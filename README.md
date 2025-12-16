@@ -1,4 +1,4 @@
-# Hi, I'm Prahlad 👋
+# Hi, I'm Nakul 👋
 
 🎓 Maths And Computing Student  
 💻 Upcoming MERN Stack Developer  
