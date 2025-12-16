@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Prahlad 👋
 
-<!--
-**Nakul211106/Nakul211106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Maths And Computing Student  
+💻 Upcomming MERN Stack Developer  
+☁️ Learning AWS  
 
-Here are some ideas to get you started:
+## Skills
+- python
+- C
+- JavaScript
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+- MERN projects
+- Backend APIs
+- AWS deployment
+
+## Contact
+- GitHub: https://github.com/Nakul211106
